@@ -4,6 +4,7 @@
  */
 package jdbc;
 
+import br.com.projeto.jdbc.ConnectionFactory;
 import javax.swing.JOptionPane;
 
 /**
